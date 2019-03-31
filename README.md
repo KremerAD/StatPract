@@ -1,2 +1,2 @@
-# hello-world
-Пробник
+# StatPract
+Для статпрака
